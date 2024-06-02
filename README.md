@@ -30,7 +30,7 @@ After exploring certain blocks of the game, the player finally busts the ghost w
 ### Package Delivery
 
 **Description:** For this assignment you will be implementing a binary search tree (BST) composed of Truck variable. Truck structure is defined as:
-```
+```C++
 struct Truck
 {
   string driver;
@@ -60,8 +60,14 @@ Finally, the function ``unloadTrucks()`` shows all the trucks' information in as
    https://github.com/samiyaalizaidi/Object-Oriented-Programming.git
    ```
 2. Navigate to the directory of the homework you want to run.
-3. Follow the instructions in the README file located in each homework directory to compile and run the programs.
-
+3. Open the VSCode terminal and put this command to compile everything:
+    ```bash
+    g++ *.cpp -IC:/mingw_dev_lib/include/SDL2 -LC:/mingw_dev_lib/lib -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_image
+    ```
+4. Run the game by this command:
+    ```bash
+    ./a.exe
+    ```
 ---
 
 If you have any questions or suggestions, feel free to reach out.
