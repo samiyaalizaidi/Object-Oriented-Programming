@@ -5,10 +5,10 @@ Welcome to the repository containing all my homework assignments for the Object 
 ## Table of Contents
 
 - [Homework Assignments](#homework-assignments)
-  - [Seeplusia](#hw1-seeplusia)
-  - [GhostBusters](#hw2-ghostbusters)
-  - [Package Delivery](#hw3---part-1-package-delivery)
-  - [HUMania](#hw3-part2-hw4-hw5-humania)
+  - [Seeplusia](#seeplusia)
+  - [GhostBusters](#ghostbusters)
+  - [Package Delivery](#package-delivery)
+  - [HUMania](#humania)
 - [Installation and Usage](#installation-and-usage)
 
 ## Homework Assignments
@@ -33,7 +33,7 @@ Welcome to the repository containing all my homework assignments for the Object 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/samiyaalizaidi/Object-Oriented-Programming.git
    ```
 2. Navigate to the directory of the homework you want to run.
 3. Follow the instructions in the README file located in each homework directory to compile and run the programs.
