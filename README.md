@@ -57,7 +57,7 @@ Finally, the function ``unloadTrucks()`` shows all the trucks' information in as
 
 1. Clone the repository to your local machine:
    ```bash
-   https://github.com/samiyaalizaidi/Object-Oriented-Programming.git
+   git clone https://github.com/samiyaalizaidi/Object-Oriented-Programming.git
    ```
 2. Navigate to the directory of the homework you want to run.
 3. Open the VSCode terminal and put this command to compile everything:
